@@ -1,2 +1,2 @@
-# Front-End-Perpustakaan
+# Frontend-Perpustakaan
 HTML, CSS, JAVASCRIPT
